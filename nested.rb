@@ -39,7 +39,7 @@ def alan_kay_is_known_for
      }
 
 		 alan_kay_is_known_for[:alan_kay]
-		 bindings.pry
+		 binding.pry
 end
 
 def dennis_ritchies_language
