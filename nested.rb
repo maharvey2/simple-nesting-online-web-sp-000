@@ -1,4 +1,3 @@
-require "pry"
 def hopper
 	programmer_hash =
  		{
@@ -39,7 +38,7 @@ def alan_kay_is_known_for
      }
 
 		 alan_kay_is_known_for[:alan_kay]
-		 binding.pry
+
 end
 
 def dennis_ritchies_language
